@@ -1,0 +1,55 @@
+@param is a special format used by javadoc to generate a documentation 
+ so far it is clear to me that iterative methods tend to  take up a huge space in the memory than recursive methods do 
+
+flippa
+shuterstock
+textbrocker 
+amazon handmade
+pinterest
+
+static semantics helps catch bugs but it does not catch all of them and certainly mot the most important ones
+
+primitive data types include strings and int, boolean and floats
+
+what's gonna happen when i run a piece of code == full semantics
+
+an algorithm is a description of how to perform a computation
+
+array is a variable that can store may values in it
+
+recursion can really cause a memory issue since it stores all of the unknown elements in the memory until it can find a solution to all of it
+
+objects only come to life when the application runs. prior to that they are just a framework
+
+the following are the best exampless that i could find to explain this f
+phenomema that we are currently experiencing
+
+java string is ummutable; ie it cannot be changed.
+
+the stringBuilder class however allows us to get arround that dumb shit and we can do staff like backspace and delete to remove shit that we do not want from what we have typed already
+
+in java you cant convert from a stringBuilder to a string so you have to call the toString Method
+
+the toString() method returns a string representation of the object from which it is called.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
